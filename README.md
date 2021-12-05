@@ -7,3 +7,8 @@ In the medical field, a professional can diagnose a melanoma to a patient by obs
 This research focuses on the early detection of melanoma through a classification algorithm based on convolutional neural networks. Both medical professionals and machines may encounter a common problem in melanoma diagnosis. The problem is that there are many spots or moles on the skin that may be possible melanomas. In the data realm, this is known as imbalanced data and is one of the challenges facing this research.
 
 The model created in this research based on convolutional neural networks aims to learn those details of melanomas in order to make a better prediction of them. For this purpose, several hidden layers are included to add complexity to the model. The results show that the accuracy of the melanoma class has been prioritized, since it is considered better to diagnose a melanoma when it does not really exist, than not to diagnose a melanoma when it does exist.
+
+NOTICE:
+- Original HAM10000 dataset is not included. They can be downloaded from the Harvard directly, instead the CSV files of the processed images can be found.
+- The outputs and results files are not included. They can be obtained by running the source code.
+
