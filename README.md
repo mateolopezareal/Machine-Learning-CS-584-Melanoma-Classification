@@ -1,5 +1,5 @@
-# Machine-Learning-CS-584-Group-8
-Machine Learning (CS-584) Group 8 - Melanoma Classification
+# Machine-Learning-CS-584-Group-8 - Melanoma Classification
+
 Overall, people who are suffering from an illness, whether serious or light, will have a better chance of overcoming it the earlier they are diagnosed. In the case of cancer, this constant is even greater, it is a disease with high morbidity and any help that leads to early diagnosis is welcome and of vital importance. In these times, the weight of computers and artificial intelligence algorithms is growing every day, so they must be used in a way that can help the health of any person.\\
 
 In the medical field, a professional can diagnose a melanoma to a patient by observing a spot, mole or mark and comparing it with other spots on the patient's skin through medical knowledge. In the field of machine learning, a machine through an algorithm may be able to predict a melanoma by learning the patterns of an image in which a melanoma can be seen.\\
